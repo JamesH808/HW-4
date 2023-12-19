@@ -1,0 +1,48 @@
+Script started on 2023-03-09 17:22:05-08:00
+]0;jaholt@WWWSTU-P01:~/hw4[jaholt@WWWSTU-P01 hw4]$ emacs pi.c[6P./pigcc -ansi -Wall pi.c -o pi[16Pemacs pi.cgcc -ansi -Wall pi.c -o pi
+]0;jaholt@WWWSTU-P01:~/hw4[jaholt@WWWSTU-P01 hw4]$ gcc -ansi -Wall pi.c -o pi[16Pemacs pi.c[6P./pi
+Enter the radius of the circle: 5
+Enter the number of points: 35
+Point No.1 (x=8.401877,y=3.943829):      IN   
+Point No.2 (x=7.830992,y=7.984400):      IN   
+Point No.3 (x=9.116474,y=1.975514):      IN   
+Point No.4 (x=3.352228,y=7.682296):      IN   
+Point No.5 (x=2.777747,y=5.539700):      IN   
+Point No.6 (x=4.773971,y=6.288709):      IN   
+Point No.7 (x=3.647845,y=5.134009):      IN   
+Point No.8 (x=9.522297,y=9.161951):      IN   
+Point No.9 (x=6.357117,y=7.172969):      IN   
+Point No.10 (x=1.416026,y=6.069689):      IN   
+Point No.11 (x=0.163006,y=2.428868):      IN   
+Point No.12 (x=1.372316,y=8.041768):      IN   
+Point No.13 (x=1.566791,y=4.009444):      IN   
+Point No.14 (x=1.297904,y=1.088088):      IN   
+Point No.15 (x=9.989245,y=2.182569):      IN   
+Point No.16 (x=5.129324,y=8.391122):      OUT   
+Point No.17 (x=6.126398,y=2.960316):      IN   
+Point No.18 (x=6.375523,y=5.242872):      IN   
+Point No.19 (x=4.935830,y=9.727750):      OUT   
+Point No.20 (x=2.925168,y=7.713577):      IN   
+Point No.21 (x=5.267450,y=7.699138):      OUT   
+Point No.22 (x=4.002286,y=8.915295):      OUT   
+Point No.23 (x=2.833147,y=3.524583):      IN   
+Point No.24 (x=8.077245,y=9.190265):      IN   
+Point No.25 (x=0.697553,y=9.493271):      IN   
+Point No.26 (x=5.259954,y=0.860558):      OUT   
+Point No.27 (x=1.922138,y=6.632269):      IN   
+Point No.28 (x=8.902326,y=3.488929):      IN   
+Point No.29 (x=0.641713,y=0.200230):      IN   
+Point No.30 (x=4.577017,y=0.630958):      OUT   
+Point No.31 (x=2.382800,y=9.706341):      OUT   
+Point No.32 (x=9.022081,y=8.509198):      IN   
+Point No.33 (x=2.666657,y=5.397603):      IN   
+Point No.34 (x=3.752070,y=7.602487):      IN   
+Point No.35 (x=5.125354,y=6.677238):      OUT   
+/******In Summary******/
+points within circle areas: 27
+points out of circle areas: 8
+pi = 3.085714
+]0;jaholt@WWWSTU-P01:~/hw4[jaholt@WWWSTU-P01 hw4]$ exit
+exit
+
+Script done on 2023-03-09 17:22:57-08:00

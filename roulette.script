@@ -1,0 +1,47 @@
+Script started on 2023-03-04 16:04:13-08:00
+]0;jaholt@WWWSTU-P01:~/hw4[jaholt@WWWSTU-P01 hw4]$ ./roulettegcc -ansi -Wall roulette.c -o roulette[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[22Pemacs roulette.c[6P./rouletteemacs roulette.cgcc -ansi -Wall roulette.c -o roulette
+]0;jaholt@WWWSTU-P01:~/hw4[jaholt@WWWSTU-P01 hw4]$ ./roulette 
+Entering the casino, how much money do you have? 240
+We are playing Roulette, odd or even bets only.
+Place your bet!
+Enter 1 for odd, 2 for even, 0 to quit: 2
+How much money do you want to bet? 1
+You bet $1.00 on even numbers
+The winning number is 12
+You win!
+Your balance is $241.00
+Place your bet!
+Enter 1 for odd, 2 for even, 0 to quit: 1
+How much money do you want to bet? 10
+You bet $10.00 on odd numbers
+The winning number is 26
+You lose!
+Your balance is $231.00
+Place your bet!
+Enter 1 for odd, 2 for even, 0 to quit: 2
+How much money do you want to bet? 100
+You bet $100.00 on even numbers
+The winning number is 9
+You lose!
+Your balance is $131.00
+Place your bet!
+Enter 1 for odd, 2 for even, 0 to quit: 100   2
+How much money do you want to bet? 100
+You bet $100.00 on even numbers
+The winning number is 24
+You win!
+Your balance is $231.00
+Place your bet!
+Enter 1 for odd, 2 for even, 0 to quit: 20 
+How much money do you want to bet? 200.89
+You bet $200.89 on even numbers
+The winning number is 13
+You lose!
+Your balance is $30.11
+Place your bet!
+Enter 1 for odd, 2 for even, 0 to quit: 0
+You exit the casino with $30.11
+]0;jaholt@WWWSTU-P01:~/hw4[jaholt@WWWSTU-P01 hw4]$ exit
+exit
+
+Script done on 2023-03-04 16:05:37-08:00
